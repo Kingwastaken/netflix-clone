@@ -1,0 +1,40 @@
+.logo{width: 10rem;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{background-color: red;
+border: none;
+padding: 0.4rem;
+color: white;
+border-radius: 0.2rem;}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+header{
+    height: 100vh;
+}
+body {
+    background-image: url('assets/nexflix\ background.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+   
+}
+.container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px; 
+}
+.right{
+    margin: 0 650px;
+}
+.left{
+    margin: 0 130px;  
+}
